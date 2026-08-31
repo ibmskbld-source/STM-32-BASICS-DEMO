@@ -1,7 +1,7 @@
 # 🎓 STM32G431 Classroom Embedded Systems Demo Suite
 
 Complete, modular, standalone STM32 HAL C code demos for teaching microcontroller peripherals on the **STM32G431** development board.
-
+PS WITH DRIVER INSTALLED U CAN DO IT FROM ANTIGRAVITY IF WANT THE STM 32 CUBE IDE : CLICK THIS LINK
 ---
 
 ## 📂 Demo Projects Index (01 to 08)
