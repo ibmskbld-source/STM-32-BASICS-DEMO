@@ -544,8 +544,8 @@ The six experiments can be followed as a progressive embedded-systems course:
                      │
                      ▼
               ┌─────────────┐
-              │ 06 Display  │
-              │ 7-Segment   │
+              │ 06 Display    │
+              │ 7-Segment     │
               └─────────────┘
 
 ---
@@ -567,8 +567,9 @@ GPIO input| 05
 7-segment encoding| 06
 Embedded user interfaces| 04, 05, 06
 
----
 
+
+---
 🗂️ Project Structure
 
 STM-32-BASICS-DEMO/
@@ -637,7 +638,7 @@ STM-32-BASICS-DEMO/
 │   └── stsw-link009.zip
 │
 └── README.md
-
+---
 The structure above reflects the repository's current folders and project artifacts.
 
 ---
